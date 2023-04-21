@@ -3,5 +3,5 @@ PyMySQL==0.9.3
 pypiwin32==223
 pytz==2019.3
 pywin32==301
-sqlparse==0.3.0
+sqlparse==0.4.4
 WMI==1.4.9
